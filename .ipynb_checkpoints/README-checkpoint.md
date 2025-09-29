@@ -1,5 +1,2 @@
 # ML_Zoomcamp_Homeworks
-
-Hello World
-
 Doing Homeworks for ML Zoomcamp 2025
